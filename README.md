@@ -41,7 +41,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/44-grupe-serlokas.git
+    git clone https://github.com/tomceza/404-Pienas.git
     ```
 2. Install NPM packages
     ```sh
